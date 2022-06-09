@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Portofolio Mahasiswa</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="username">Username</string>
+
+    <string-array name="data_nama">
+        <item>Fulan</item>
+        <item>Fulan2</item>
+        <item>Fulan3</item>
+        <item>Fulan4</item>
+        <item>Fulan5</item>
+        <item>Fula6</item>
+        <item>Fulan7</item>
+        <item>Fulan</item>
+        <item>Fulan7</item>
+        <item>Fulan</item>
+    </string-array>
+    <string-array name="data_username">
+        <item>Fulan</item>
+        <item>Fulan2</item>
+        <item>Fulan3</item>
+        <item>Fulan4</item>
+        <item>Fulan5</item>
+        <item>Fula6</item>
+        <item>Fulan7</item>
+        <item>Fulan</item>
+        <item>Fulan</item>
+        <item>Fulan</item>
+    </string-array>
+    <integer-array name="data_avatar">
+         <item>@drawable/foto1</item>
+         <item>@drawable/foto2</item>
+         <item>@drawable/foto3</item>
+         <item>@drawable/foto4</item>
+         <item>@drawable/foto5</item>
+         <item>@drawable/foto6</item>
+         <item>@drawable/foto7</item>
+         <item>@drawable/foto8</item>
+         <item>@drawable/foto9</item>
+         <item>@drawable/foto10</item>
+    </integer-array>
+</resources>
