@@ -2,41 +2,110 @@
     <string name="app_name">Portofolio Mahasiswa</string>
     <string name="nama">Nama Lengkap</string>
     <string name="username">Username</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nama_lengkap_detail">Nama Lengkap</string>
+    <string name="username_detail">Username</string>
+    <string name="todo">TODO</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
 
     <string-array name="data_nama">
-        <item>Fulan</item>
-        <item>Fulan2</item>
-        <item>Fulan3</item>
-        <item>Fulan4</item>
-        <item>Fulan5</item>
-        <item>Fula6</item>
-        <item>Fulan7</item>
-        <item>Fulan</item>
-        <item>Fulan7</item>
-        <item>Fulan</item>
+        <item>Prih Diantono Abdau</item>
+        <item>Oman Somantri</item>
+        <item>Muhammad Nur Faiz</item>
+        <item>Lisa Nur Aini</item>
+        <item>Aditama</item>
+        <item>Linda Perdana Wanti</item>
+        <item>Nur Wachid Adi P</item>
+        <item>Ratih Hafsarah M</item>
+        <item>Agus Susanto</item>
+        <item>Antonius Agung</item>
     </string-array>
     <string-array name="data_username">
-        <item>Fulan</item>
-        <item>Fulan2</item>
-        <item>Fulan3</item>
-        <item>Fulan4</item>
-        <item>Fulan5</item>
-        <item>Fula6</item>
-        <item>Fulan7</item>
-        <item>Fulan</item>
-        <item>Fulan</item>
-        <item>Fulan</item>
+        <item>abdau88</item>
+        <item>oman_s</item>
+        <item>faiz_oke</item>
+        <item>queenliz</item>
+        <item>aditamabetet</item>
+        <item>linda.tok</item>
+        <item>wachid_ap</item>
+        <item>sarah</item>
+        <item>agusmyworld</item>
+        <item>ant.anton</item>
     </string-array>
-    <integer-array name="data_avatar">
-         <item>@drawable/foto1</item>
-         <item>@drawable/foto2</item>
-         <item>@drawable/foto3</item>
-         <item>@drawable/foto4</item>
-         <item>@drawable/foto5</item>
-         <item>@drawable/foto6</item>
-         <item>@drawable/foto7</item>
-         <item>@drawable/foto8</item>
-         <item>@drawable/foto9</item>
-         <item>@drawable/foto10</item>
-    </integer-array>
+    <string-array name="data_avatar">
+        <item>https://img.freepik.com/free–vector/businessman-character-avatar-isolated_24877-60111.jpg</item>
+        <item>https://img.freepik.com/free-vector/blue-haired-girl-character-illustration-icon-vector-flat-cartoon-style_461200-353.jpg</item>
+        <item>https://img.freepik.com/free–vector/man-shows-gesture-great-idea_10045-637.jpg</item>
+        <item>https://img.freepik.com/free-vector/avatar-icon-chinese-woman-premium-vector_181720-16.jpg</item>
+        <item>https://img.freepik.com/free-psd/3d-cartoon-avatar-isolated-3d-rendering_235528-265.jpg</item>
+        <item>https://img.freepik.com/free-vector/3d-cartoon-young-woman-smiling-circle-frame-character-illustration-vector-design_40876-3100.jpg</item>
+        <item>https://img.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg</item>
+        <item>https://img.freepik.com/free-psd/3d-cartoon-avatar-isolated-3d-rendering_235528-260.jpg</item>
+        <item>https://img.freepik.com/free-psd/3d-cartoon-character-avatar-isolated-3d-rendering_235528-587.jpg</item>
+        <item>https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg</item>
+    </string-array>
+    <string-array name="data_follower">
+        <item>Follower : 10</item>
+        <item>Follower : 10</item>
+        <item>Follower : 10</item>
+        <item>Follower : 10</item>
+        <item>Follower : 10</item>
+        <item>Follower : 10</item>
+        <item>Follower : 10</item>
+        <item>Follower : 10</item>
+        <item>Follower : 10</item>
+        <item>Follower : 10</item>
+    </string-array>
+    <string-array name="data_following">
+        <item>Following : 5</item>
+        <item>Following : 5</item>
+        <item>Following : 5</item>
+        <item>Following : 5</item>
+        <item>Following : 5</item>
+        <item>Following : 5</item>
+        <item>Following : 5</item>
+        <item>Following : 5</item>
+        <item>Following : 5</item>
+        <item>Following : 5</item>
+    </string-array>
+    <string-array name="data_company">
+        <item>Company : Politeknik Negeri Cilacap</item>
+        <item>Company : Politeknik Negeri Cilacap</item>
+        <item>Company : Politeknik Negeri Cilacap</item>
+        <item>Company : Politeknik Negeri Cilacap</item>
+        <item>Company : Politeknik Negeri Cilacap</item>
+        <item>Company : Politeknik Negeri Cilacap</item>
+        <item>Company : Politeknik Negeri Cilacap</item>
+        <item>Company : Politeknik Negeri Cilacap</item>
+        <item>Company : Politeknik Negeri Cilacap</item>
+        <item>Company : Politeknik Negeri Cilacap</item>
+    </string-array>
+    <string-array name="data_location">
+        <item>Location : Cilacap</item>
+        <item>Location : Cilacap</item>
+        <item>Location : Cilacap</item>
+        <item>Location : Cilacap</item>
+        <item>Location : Cilacap</item>
+        <item>Location : Cilacap</item>
+        <item>Location : Cilacap</item>
+        <item>Location : Cilacap</item>
+        <item>Location : Cilacap</item>
+        <item>Location : Cilacap</item>
+    </string-array>
+    <string-array name="data_repository">
+        <item>Repository : https://github.com/abdaupd?tab=repositories</item>
+        <item>Repository : https://github.com/abdaupd?tab=repositories</item>
+        <item>Repository : https://github.com/abdaupd?tab=repositories</item>
+        <item>Repository : https://github.com/abdaupd?tab=repositories</item>
+        <item>Repository : https://github.com/abdaupd?tab=repositories</item>
+        <item>Repository : https://github.com/abdaupd?tab=repositories</item>
+        <item>Repository : https://github.com/abdaupd?tab=repositories</item>
+        <item>Repository : https://github.com/abdaupd?tab=repositories</item>
+        <item>Repository : https://github.com/abdaupd?tab=repositories</item>
+        <item>Repository : https://github.com/abdaupd?tab=repositories</item>
+    </string-array>
 </resources>

@@ -24,10 +24,11 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="8dp"
+            android:clickable="true"
             card_view:layout_constraintBottom_toBottomOf="parent"
             card_view:layout_constraintStart_toStartOf="parent"
             card_view:layout_constraintTop_toTopOf="parent"
-            tools:src="@drawable/foto1" />
+            tools:src="" />
 
         <TextView
             android:id="@+id/tv_nama"
@@ -36,7 +37,8 @@
             android:layout_marginStart="8dp"
             android:layout_marginEnd="8dp"
             android:layout_toEndOf="@id/avatars"
-            android:text="Nama Lengkap"
+            android:clickable="false"
+            android:text="@string/nama_lengkap"
             android:textSize="16sp"
             android:textStyle="bold"
             card_view:layout_constraintEnd_toEndOf="parent"
